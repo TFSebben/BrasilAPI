@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-11T12:17:26.251Z",
+  "generated_at": "2026-09-14T13:59:46.970Z",
   "coletado_de": "https://api.mapasus.com.br",
   "hospitais": [
     {
@@ -31142,8 +31142,8 @@
       "phones": "Sem contato",
       "cnes": "2457121",
       "treatments": [],
-      "lat": null,
-      "lng": null,
+      "lat": -2.12814911750426,
+      "lng": -45.8866310119629,
       "extraction_source": "pdf_text",
       "ocr_confidence": null,
       "requires_verification": false,
@@ -32348,8 +32348,8 @@
       "phones": "Sem contato",
       "cnes": "7628749",
       "treatments": [],
-      "lat": null,
-      "lng": null,
+      "lat": -6.838,
+      "lng": -46.472,
       "extraction_source": "pdf_text",
       "ocr_confidence": null,
       "requires_verification": false,
@@ -32402,8 +32402,8 @@
       "phones": "(98) 3461 1824",
       "cnes": "2464454",
       "treatments": [],
-      "lat": null,
-      "lng": null,
+      "lat": -3.2084094,
+      "lng": -43.404248,
       "extraction_source": "pdf_text",
       "ocr_confidence": null,
       "requires_verification": false,
@@ -34200,7 +34200,7 @@
       "city": "Almerim",
       "name": "Hospital Municipal de Almerim",
       "address": "Rua Lameira Bittencourt, 1659 - Bairro do Palhão",
-      "phones": null,
+      "phones": "3737-1811",
       "cnes": "2331748",
       "treatments": [
         "Bothropic",
@@ -34735,7 +34735,7 @@
       "city": "Cachoeira do Arari",
       "name": "Unidade Mista de Cachoeira do Arari",
       "address": "Praça da Matriz, s/n - Centro",
-      "phones": null,
+      "phones": "(91)984963799",
       "cnes": "2316234",
       "treatments": [
         "Bothropic",
@@ -34804,7 +34804,7 @@
       "city": "Capanema",
       "name": "UPA de Capanema Josué Rodrigues Martins",
       "address": "Rua Laudelino Valente, s/n - São Cristovão",
-      "phones": null,
+      "phones": "(91)34622155",
       "cnes": "6947077",
       "treatments": [
         "Bothropic",
