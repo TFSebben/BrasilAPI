@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-14T13:59:46.970Z",
+  "generated_at": "2026-09-15T12:44:14.904Z",
   "coletado_de": "https://api.mapasus.com.br",
   "hospitais": [
     {
@@ -34200,7 +34200,7 @@
       "city": "Almerim",
       "name": "Hospital Municipal de Almerim",
       "address": "Rua Lameira Bittencourt, 1659 - Bairro do Palhão",
-      "phones": "3737-1811",
+      "phones": null,
       "cnes": "2331748",
       "treatments": [
         "Bothropic",
@@ -34735,7 +34735,7 @@
       "city": "Cachoeira do Arari",
       "name": "Unidade Mista de Cachoeira do Arari",
       "address": "Praça da Matriz, s/n - Centro",
-      "phones": "(91)984963799",
+      "phones": null,
       "cnes": "2316234",
       "treatments": [
         "Bothropic",
@@ -34804,7 +34804,7 @@
       "city": "Capanema",
       "name": "UPA de Capanema Josué Rodrigues Martins",
       "address": "Rua Laudelino Valente, s/n - São Cristovão",
-      "phones": "(91)34622155",
+      "phones": null,
       "cnes": "6947077",
       "treatments": [
         "Bothropic",
